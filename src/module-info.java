@@ -1,0 +1,9 @@
+/**
+ * 
+ */
+/**
+ * @author ricovillares
+ *
+ */
+module course {
+}
